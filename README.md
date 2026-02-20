@@ -1,4 +1,4 @@
-## Here is a set of demo script to solve the problem of multiclassification.
+## Here is a set of demo scripts to solve the problem of multiclassification.
 
 As it is from our internal dataflow you cannot use it as is, but you may view in the idea.
 
